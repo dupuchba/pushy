@@ -1,6 +1,6 @@
 (defproject org.clojars.dupuchba/pushy "0.3.8"
   :description "HTML5 pushState for Clojurescript"
-  :url "https://github.com/kibu-australia/pushy"
+  :url "https://github.com/dupuchba/pushy"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
